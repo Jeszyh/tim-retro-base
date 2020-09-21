@@ -1,5 +1,4 @@
 h1{
-
   font-family: var(--font-secondaire);
   font-style: normal;
   font-weight: normal;
@@ -7,26 +6,19 @@ h1{
   line-height: 43px;
 
   color: #FFFFFF;
-
 }
 
-
 h2{
-
   font-family: var(--font-secondaire);
   font-style: normal;
   font-weight: normal;
   font-size: 80px;
   line-height: 96px;
 
-  /* identical to box height */
-
   color: #FFFFFF;
-
 }
 
 h3{
-
   font-family: var(--font-principale);
   font-style: normal;
   font-weight: bold;
@@ -37,6 +29,7 @@ h3{
 
   color: #000000;
 }
+
 h4{
   font-family: var(--font-principale);
   font-style: normal;
@@ -47,5 +40,4 @@ h4{
   text-transform: uppercase;
 
   color: #000000;
-
 }
